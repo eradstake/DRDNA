@@ -28,7 +28,7 @@ dose rate		= absorbed dose per minute
 irr time 		= total time of exposure in minutes based on total absorbed dose and dose rate
 techn repl 		= number of replicates, or cells scored per condition (nr = not reported)
 repeats 		= number of repeats of experiment. 1 for no repeat (nr = not reported)
-eu          = experimental unit, unique id number for each independent experiment
+eu              = experimental unit, unique id number for each independent experiment
 time pi 		= time post irradiation in minutes as mentioned in article
 time norm 		= time pi subtracted by time of highest absolute number of DSB reported
 average_n_per_cell	= absolute value of DSB reported
